@@ -23,11 +23,11 @@ export const BRAND = {
   location: 'Mettur, Salem District, Tamil Nadu, India',
   copyright: '© 2026 KEAGROW. All rights reserved.',
   contactPlaceholders: {
-    phone: '[PHONE NUMBER]',
-    whatsapp: '[WHATSAPP NUMBER]',
-    email: '[EMAIL ADDRESS]',
-    instagram: '[INSTAGRAM HANDLE]',
-    instagramUrl: '#',
+    phone: '+91 86678 11599, +91 63815 31239',
+    whatsapp: '+91 88071 03657',
+    email: 'keagrowtech@gmail.com',
+    instagram: '@keagrow',
+    instagramUrl: 'https://www.instagram.com/keagrow/#',
   },
 };
 
