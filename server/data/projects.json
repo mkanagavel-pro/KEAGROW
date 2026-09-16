@@ -1,0 +1,106 @@
+[
+  {
+    "id": "royal-snacks",
+    "title": "Royal Snacks",
+    "category": "Business / E-commerce Website",
+    "tagline": "Direct-to-consumer digital snack storefront with brand-led catalog showcase",
+    "description": "A bespoke web storefront created for Royal Snacks to display artisan snack offerings, optimize customer product discovery, and enable direct commercial order placement.",
+    "liveUrl": "https://royal-snacks-six.vercel.app/",
+    "isPlaceholder": false,
+    "statusBadge": "Live Production",
+    "technologies": ["React", "JavaScript", "HTML5", "CSS3", "Responsive Design"],
+    "caseStudy": {
+      "challenge": "Deliver a fast, visually appetizing digital presence that lets customers browse regional snacks smoothly across mobile smartphones with instant order inquiries.",
+      "solution": "Engineered a responsive, high-performance web application featuring custom product categorization, vibrant card layouts, and frictionless contact-to-order integration.",
+      "technology": "Modern Frontend Architecture, Mobile-First Viewports, Dynamic Catalog Filtering",
+      "outcome": "Launched a functional commercial website that elevates the brand identity and delivers swift loading speeds for mobile shoppers."
+    },
+    "accentColor": "#f59e0b"
+  },
+  {
+    "id": "namma-oor-workers",
+    "title": "Namma Ooru Workers",
+    "category": "Local Service Discovery Platform",
+    "tagline": "Community workforce discovery and on-demand artisan booking platform",
+    "description": "A full-stack localized service directory connecting skilled daily-wage technicians, electricians, plumbers, and local workers with nearby household service seekers.",
+    "liveUrl": "https://namma-oor-workers.onrender.com/",
+    "isPlaceholder": false,
+    "statusBadge": "Live Platform",
+    "technologies": ["HTML", "CSS", "JavaScript", "Node.js", "Express.js", "MongoDB"],
+    "caseStudy": {
+      "challenge": "Bridge the digital gap between unorganized municipal skilled workers and local families needing trustworthy on-demand domestic repair services.",
+      "solution": "Architected a full-stack database-driven application with categorised worker directories, local search endpoints, responsive profile listings, and clean Express routing.",
+      "technology": "Node.js server environment, Express REST API, MongoDB data schemas, Vanilla JS client",
+      "outcome": "Successfully deployed a functioning regional service hub demonstrating real-world database integration and practical community utility."
+    },
+    "accentColor": "#10b981"
+  },
+  {
+    "id": "enterprise-resource-hub",
+    "title": "Enterprise Operations Engine",
+    "category": "Custom Software / Management System",
+    "tagline": "Modular business operational control center with role-based records",
+    "description": "Comprehensive administrative management system engineered to automate internal company records, streamline inventory status, and track daily operational workflows.",
+    "isPlaceholder": true,
+    "statusBadge": "Project Showcase",
+    "technologies": ["React", "Node.js", "Express", "MongoDB", "REST APIs"],
+    "caseStudy": {
+      "challenge": "Eliminate fragmented spreadsheet records and redundant manual paperwork across multi-department operations.",
+      "solution": "Configured a central database-backed management system with customized data tables, status flags, and automated activity logging.",
+      "technology": "React UI components, Secure API endpoints, MongoDB collections, Normalized state",
+      "outcome": "Consolidated company recordkeeping into a single high-efficiency internal dashboard."
+    },
+    "accentColor": "#06b6d4"
+  },
+  {
+    "id": "digital-retail-suite",
+    "title": "Retail Commerce & Inventory",
+    "category": "E-commerce & Web Application",
+    "tagline": "High-conversion digital retail experience with catalog state control",
+    "description": "Next-generation digital storefront built with real-time stock notifications, rich product attribute selectors, and rapid search filtering.",
+    "isPlaceholder": true,
+    "statusBadge": "Coming Soon",
+    "technologies": ["React", "Tailwind CSS", "Vite", "Database Integration"],
+    "caseStudy": {
+      "challenge": "Ensure fluid catalog exploration on low-bandwidth cellular connections without sacrificing visual fidelity.",
+      "solution": "Implemented progressive asset loading, lightweight UI state transitions, and responsive grid layouts.",
+      "technology": "Vite build tooling, Tailwind responsive utilities, Modular component primitives",
+      "outcome": "Sub-second page rendering and clean checkout enquiry funnel."
+    },
+    "accentColor": "#8b5cf6"
+  },
+  {
+    "id": "institutional-web-system",
+    "title": "Institutional Portal & Directory",
+    "category": "Web Application & Portal",
+    "tagline": "Structured multi-tier content portal for modern organizations and institutions",
+    "description": "An accessible, content-rich institutional portal structured for departmental news publishing, event calendars, faculty directories, and student information dissemination.",
+    "isPlaceholder": true,
+    "statusBadge": "Coming Soon",
+    "technologies": ["HTML5", "CSS3", "JavaScript", "REST APIs", "Responsive Web Design"],
+    "caseStudy": {
+      "challenge": "Deliver a secure, high-density information architecture meeting modern accessibility standards across institutional stakeholders.",
+      "solution": "Engineered clear hierarchical navigation, search-indexed document categories, and mobile-friendly layouts.",
+      "technology": "Semantic HTML, Modular stylesheet architecture, Dynamic filtering",
+      "outcome": "Intuitive navigation structure with seamless navigation across all viewport sizes."
+    },
+    "accentColor": "#3b82f6"
+  },
+  {
+    "id": "smart-analytics-board",
+    "title": "Operational Analytics Dashboard",
+    "category": "Business Management System",
+    "tagline": "Data-driven visual telemetry and metric visualization dashboard",
+    "description": "Executive telemetry console translating complex database logs into actionable visual trend graphs, task distributions, and real-time operational status updates.",
+    "isPlaceholder": true,
+    "statusBadge": "Project Showcase",
+    "technologies": ["React", "JavaScript", "Tailwind CSS", "REST APIs"],
+    "caseStudy": {
+      "challenge": "Synthesize voluminous operational logs into clear, actionable executive insights for rapid decision-making.",
+      "solution": "Built interactive visual widgets with responsive breakdown charts and status tracking indicators.",
+      "technology": "Dynamic UI components, Custom SVG metrics, Reactive filter state",
+      "outcome": "Real-time situational visibility designed for high-frequency operational teams."
+    },
+    "accentColor": "#ec4899"
+  }
+]
